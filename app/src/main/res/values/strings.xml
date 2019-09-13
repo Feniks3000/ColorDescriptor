@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+    <string name="buttonFindDescription">Показать расшифровку</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="description_of_color">
+        <item>Красный цвет символизирует красоту...... ......... .......</item>
+        <item>Зеленый цвет символизирует природу...... ......... .......</item>
+        <item>Синий цвет символизирует свободу...... ......... .......</item>
+    </string-array>
+</resources>
+
